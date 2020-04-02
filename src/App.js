@@ -7,7 +7,7 @@ export class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <h1>Hello CodeSandbox</h1>
+        <h1>Atividade 6</h1>
         <header className="App-header">
           <Link to="/">Home</Link>
           <Link to="/favorites">Favoritos</Link>
