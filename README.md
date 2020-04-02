@@ -29,11 +29,14 @@ Na entrega do exercício, coloque um arquivo com o nome “link.txt” contendo 
 
 # Para executar
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6171b8f3-df4f-4d2f-a582-0efdbdd5f877/deploy-status)](https://app.netlify.com/sites/diogoperdigao/deploys)
+
 `npm start`
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Obs: Foi implementado o bonus de remover itens dos favoritos.
+https://diogoperdigao.netlify.com/
+
 
 ## Autor
 Diogo Passos Perdigão Britto

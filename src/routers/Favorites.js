@@ -1,4 +1,4 @@
 import React from "react";
-import { FavoritesView } from "../components/FavoritesView";
+import { FavoritesView } from "../container/FavoritesView";
 
 export const Favorites = props => <FavoritesView />;
